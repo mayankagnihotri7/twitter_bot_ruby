@@ -1,4 +1,4 @@
-# twitter_bot_ruby
+# Twitter bot made using ruby.
 Twitter bot made with ♡ using ruby to retweet specified hashtags.
 
 ## Usage:

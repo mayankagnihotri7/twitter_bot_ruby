@@ -8,3 +8,5 @@ Twitter bot made with ♡ using ruby to retweet specified hashtags.
 - In `application.yml` add your consumer key, consumer key secret,  access token and access token secret which you will get once you login to `apps.twitter.com` and
   create a new application in there.
 - Run the bot using `ruby app/services/twitter/re_tweet_service.rb`
+
+All thanks to this [Article](https://prabinpoudel.com.np/articles/build-twitter-bot-with-ruby/#skills-required-to-follow-the-tutorial) using which I was able to build the Twitter bot.
